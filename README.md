@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm3n&label=Profile%20views&color=0e75b6&style=flat" alt="ismaeil" /> </p>
 
-- 💔 I stopped programming in 2022 ****
+python & php & c#
+
+- 💔 I stopped programming in 2022 
 
 
 📫 Reach me out!
